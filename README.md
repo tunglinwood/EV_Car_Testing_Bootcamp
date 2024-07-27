@@ -86,7 +86,7 @@
 
 #### 第一阶段: 测试基础和软件工程
 
-1. [**基础测试理论**]()
+1. [**基础测试理论**](https://blog.csdn.net/weixin_43750377/article/details/114066222?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522172197156816800188585984%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=172197156816800188585984&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-114066222-null-null.142^v100^pc_search_result_base1&utm_term=%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95&spm=1018.2226.3001.4187)
    - 测试目的
    - 测试用例编写方法
    - 测试对象
